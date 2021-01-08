@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://deniskodak.github.io/wine-shop",
+  "homepage": "https://deniskodak.github.io/wine-shop/",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
